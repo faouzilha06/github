@@ -3,6 +3,9 @@
         padding:0;
         box-sizing: border-box;
 }
+header{
+
+}
 h1{
     margin: 100px 0px 20px;
     color: (255, 255, 255);
@@ -12,4 +15,9 @@ h1{
 p {
     color: #0f0e0e;
     width: 50;
+}
+img{
+    background:url("img/about-bg.jpg");
+    height: 600px;
+    background-position: center;
 }
