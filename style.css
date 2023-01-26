@@ -21,3 +21,6 @@ img{
     height: 600px;
     background-position: center;
 }
+img{
+    margin: 20px;
+}
